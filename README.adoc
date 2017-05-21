@@ -1,0 +1,8 @@
+== VizFX
+
+Random explorations around JavaFX visualization utilities.
+
+Motivations:
+
+* Provide generic utilities like scales, histogram models, etc.
+* Bring D3.js idioms to JavaFX
